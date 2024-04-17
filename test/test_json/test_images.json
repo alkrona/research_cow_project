@@ -1,0 +1,23 @@
+[
+    {
+        "file_path" : "/Users/bijubiju/Desktop/ml projects/current/research_cow_project/test/test_images/1315.jpg",
+        "objects":20
+    
+
+    },
+    {   
+        "file_path" : "/Users/bijubiju/Desktop/ml projects/current/research_cow_project/test/test_images/1660.jpg",
+        "objects":18
+
+    },
+    {   
+        "file_path" : "/Users/bijubiju/Desktop/ml projects/current/research_cow_project/test/test_images/1885.jpg",
+        "objects":17
+
+    },
+    {   
+        "file_path" : "/Users/bijubiju/Desktop/ml projects/current/research_cow_project/test/test_images/2285.jpg",
+        "objects":16
+
+    }
+]
